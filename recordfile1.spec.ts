@@ -3,7 +3,7 @@ import { test, expect } from '@playwright/test';
 import testData from './testdata.json';
 
 
-// Basic search of locator
+// Basic search of locator git hub
 
 test('test', async ({ page }) => {
 
@@ -31,15 +31,6 @@ test('test', async ({ page }) => {
 
 
 });
-
-
-// DJSKJDL
-
-// 12345678
-// JLKJLSKDJ
-
-
-
 
 
 
